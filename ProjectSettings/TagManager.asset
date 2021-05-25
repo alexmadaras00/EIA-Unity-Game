@@ -4,12 +4,18 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Collectible
+  - Platform
   - Bullet
   - EnemyBullet
-  - Wall
+  - Rope
+  - Coin
   - Enemy
-  - Back
+  - Wall
+  - Code
+  - Door
+  - BigDoor
+  - Boss
+  - Detection
   layers:
   - Default
   - TransparentFX
@@ -48,8 +54,8 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 3058539005
+    uniqueID: 643297085
     locked: 0
   - name: Foreground
-    uniqueID: 3963477385
+    uniqueID: 3268956061
     locked: 0
